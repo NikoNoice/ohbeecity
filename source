@@ -4742,3 +4742,5 @@ for tN, _ in pairs(Library.Themes) do
     table.insert(themeNames, tN)
 end
 table.sort(themeNames)
+
+return Library
